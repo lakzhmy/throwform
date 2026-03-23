@@ -1,0 +1,14 @@
+:root {
+  --blue: #1897ff;
+  --darkblue: #007ffd;
+  --pink: #f5a5be;
+  --darkpink: #f35b8b;
+}
+
+h3 {
+  color: black;
+}
+
+p {
+  color: black;
+}

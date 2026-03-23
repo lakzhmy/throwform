@@ -1,0 +1,21 @@
+{
+  "name": "throwform",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "compute-rhino3d": "^0.13.0-beta",
+    "pinia": "^2.1.7",
+    "three": "^0.160.0",
+    "vue": "^3.5.24"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.2.4"
+  }
+}
